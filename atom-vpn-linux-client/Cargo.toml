@@ -1,6 +1,0 @@
-[package]
-name = "atom-vpn-linux-client"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
